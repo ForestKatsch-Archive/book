@@ -1,0 +1,4 @@
+book
+====
+
+Fiction novel generator
